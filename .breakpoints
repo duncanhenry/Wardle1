@@ -1,0 +1,48 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "36d208c1-72c0-41ef-b6c4-9f11acf7c3b1",
+        "line": 1,
+        "version": 5910,
+        "index": 0
+      },
+      {
+        "id": "6e80d85a-9731-406e-a6b1-dadfd045ca28",
+        "line": 1,
+        "version": 5910,
+        "index": 0
+      },
+      {
+        "id": "529bbaa9-bc35-467c-8c80-4d132af895b5",
+        "line": 1,
+        "version": 5910,
+        "index": 0
+      },
+      {
+        "id": "8e876dd8-cbdf-45ab-8e96-04f9dd640c79",
+        "line": 1,
+        "version": 5910,
+        "index": 0
+      },
+      {
+        "id": "e8989680-5087-4387-bdfa-4a45ba60c865",
+        "line": 1,
+        "version": 5910,
+        "index": 0
+      },
+      {
+        "id": "49721577-3878-4a06-b513-3f54ed910b2e",
+        "line": 1,
+        "version": 5910,
+        "index": 0
+      },
+      {
+        "id": "00395a3e-e4be-48e1-b32b-8fd9f5ef9d84",
+        "line": 1,
+        "version": 5910,
+        "index": 0
+      }
+    ]
+  }
+}
